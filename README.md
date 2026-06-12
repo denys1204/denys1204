@@ -9,19 +9,19 @@ a 7-service microservice platform for discovering city events on a geospatial ma
 ### 🛠 Tech Stack
 
 **Backend:** Java 21 · Spring Boot 3 · Spring Cloud · Spring Security  
-**Data:** PostgreSQL · PostGIS · Hibernate · Flyway  
+**Data:** PostgreSQL · Hibernate · Flyway  
 **Messaging:** Apache Kafka  
-**Cloud & Storage:** Google Cloud Storage · MinIO · Docker · Docker Compose  
+**Cloud & Storage:** Google Cloud Storage · Docker · Docker Compose  
 **CI/CD:** GitHub Actions · Docker Hub · Buildx (multi-arch)  
 **Security:** JWT (RSA/JWKS) · OAuth2 (Google)  
-**Tools:** Maven · MapStruct · Lombok · OpenAPI/Swagger  
+**Tools:** Maven · Gradle · MapStruct · Lombok · OpenAPI/Swagger  
 
 ### 📌 Featured Project
 
 🏙️ **[City Pulse](https://github.com/CityPulse-Organization/city-pulse)** — 
 Social platform with 7 microservices: API Gateway, BFF, Auth, Posts, 
 Users, Storage, Registration. Event-driven architecture with Kafka, 
-PostGIS geospatial queries, JWT/OAuth2 auth, GCS file storage, 
+JWT/OAuth2 auth, GCS file storage, 
 and CI/CD with GitHub Actions.
 
 ### 📫 How to reach me
